@@ -1,0 +1,22 @@
+{
+  "name": "@local/dsh-locale-pt-br",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pacote de idioma Português (Brasil) para a interface web do DeepSeek Harness",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": ["index.js", "client.js", "cordis.patch.yml", "locale/*.json", "icon.svg", "README.md", "LICENSE"],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": ["@deepseek-ai/dsh-client-locale"]
+    }
+  }
+}

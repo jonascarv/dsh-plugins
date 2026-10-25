@@ -1,0 +1,7 @@
+{
+  "nav": "Plugins internos",
+  "title": "Plugins internos",
+  "intro": "Inspecione os plugins incluídos nesta implantação.",
+  "tabs": "Visualizações de plugins",
+  "empty": "Esta implantação não expõe visualizações de plugins."
+}
