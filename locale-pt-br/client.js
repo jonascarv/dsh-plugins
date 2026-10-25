@@ -372,6 +372,8 @@ window.__ModuleLoader__.load({
     "hero.preview": "Prévia",
     "hero.chooseWorkspace": "Escolher workspace",
     "session.hierarchy": "Hierarquia de sessões",
+    "session.moreViews": "Mais visualizações de conversa",
+    "session.moreViewsCurrent": "Mais visualizações de conversa · {name}",
     "todo.title": "Tarefas",
     "todo.progress.done": "{done} concluídas",
     "todo.progress.active": "{active} em andamento",
@@ -840,6 +842,13 @@ window.__ModuleLoader__.load({
     "code.copy": "Copiar",
     "code.copied": "Copiado",
     "footnotes": "Notas de rodapé"
+  },
+  "entryCustomization": {
+    "install": "Explorar outros plugins",
+    "create": "Criar seu plugin",
+    "createPrompt.sidebar": "Crie um plugin DSH com uma entrada na barra lateral esquerda.",
+    "createPrompt.conversation": "Crie um plugin DSH de visualização de conversa.",
+    "createPrompt.rightbar": "Crie um plugin DSH com uma entrada na barra lateral direita."
   },
   "feedback": {
     "action.like": "Boa resposta",
@@ -2207,7 +2216,8 @@ window.__ModuleLoader__.load({
     "session.new.label": "Nova sessão",
     "toggle.open": "Abrir barra lateral",
     "toggle.collapse": "Recolher barra lateral",
-    "panels.label": "Painéis globais"
+    "panels.label": "Painéis globais",
+    "panels.more": "Mais"
   },
   "sidebarBrowser": {
     "type.label": "Navegador",
@@ -2383,6 +2393,7 @@ window.__ModuleLoader__.load({
     "dock.drop.top": "Adicionar divisão acima",
     "dock.drop.bottom": "Adicionar divisão abaixo",
     "tab.guide.title": "Iniciar",
+    "tab.guide.more": "Mais ferramentas",
     "tab.unavailable": "Ainda não há nada aqui que possa exibir este tipo de conteúdo."
   },
   "sidebarTerminal": {

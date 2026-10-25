@@ -1,6 +1,6 @@
 {
   "name": "@local/dsh-locale-pt-br",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "description": "Pacote de idioma Português (Brasil) para a interface web do DeepSeek Harness",
