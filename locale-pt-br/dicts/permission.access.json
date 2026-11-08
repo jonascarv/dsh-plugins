@@ -1,0 +1,19 @@
+{
+  "mode": "Modo de acesso, atual: {name}",
+  "close": "Fechar",
+  "preset.readOnly": "Somente leitura",
+  "preset.workspaceWrite": "Gravação na área de trabalho",
+  "preset.fullAccess": "Acesso total",
+  "confirm.title": "Ativar Acesso total?",
+  "confirm.description": "O Acesso total reduz as etapas de confirmação e permite que o agente execute mais ações diretamente, incluindo operações sensíveis, alterações de arquivos ou comandos externos. Use-o apenas quando confiar na tarefa atual.",
+  "confirm.acknowledge": "Entendo os riscos e quero continuar",
+  "confirm.cancel": "Cancelar",
+  "confirm.enable": "Ativar Acesso total",
+  "auto.label": "Revisão automática",
+  "auto.badge": "EXP",
+  "auto.description": "Executa sem sandbox após uma revisão experimental, feita pelo mesmo modelo, de cada chamada de ferramenta nativa e chamada interna de PTC.",
+  "auto.confirm.title": "Ativar Revisão automática (experimental)?",
+  "auto.confirm.description": "A Revisão automática é executada sem sandbox. Antes de cada chamada de ferramenta nativa e chamada interna de PTC, o mesmo modelo do agente atual avalia se a permite; você aprova ou recusa cada chamada que ele negar. Este recurso é experimental, pode permitir ou negar ações incorretamente e consome tokens adicionais.",
+  "auto.confirm.acknowledge": "Entendo esses riscos e quero continuar",
+  "auto.confirm.enable": "Ativar Revisão automática"
+}
