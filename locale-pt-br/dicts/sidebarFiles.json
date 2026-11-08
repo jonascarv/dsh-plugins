@@ -15,5 +15,9 @@
   "error.notFound": "Esse diretório não existe mais. Ele pode ter sido movido ou excluído.",
   "error.outsideWorkspace": "Esse diretório está fora da área de trabalho, portanto a barra lateral não o lerá.",
   "error.notDirectory": "Isso não é um diretório.",
-  "error.unavailable": "Falha na leitura: {message}"
+  "error.unavailable": "Falha na leitura: {message}",
+  "entry.noViewer": "Nenhum visualizador pode abrir este arquivo.",
+  "navigator.show": "Mostrar árvore de arquivos",
+  "navigator.hide": "Ocultar árvore de arquivos",
+  "navigator.resize": "Redimensionar árvore de arquivos"
 }

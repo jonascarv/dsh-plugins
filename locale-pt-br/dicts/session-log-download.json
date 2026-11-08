@@ -8,5 +8,9 @@
   "dialog.successDescription": "O navegador está baixando o ZIP da sessão.",
   "dialog.errorTitle": "Falha ao exportar a sessão",
   "dialog.close": "Fechar",
-  "dialog.commandFailed": "Não foi possível iniciar a exportação da sessão."
+  "dialog.commandFailed": "Não foi possível iniciar a exportação da sessão.",
+  "menu.copyMarkdown": "Copiar sessão como Markdown",
+  "toast.copied": "Sessão copiada como Markdown.",
+  "toast.preparationFailed": "Não foi possível ler a sessão para copiar. Tente novamente.",
+  "toast.clipboardFailed": "Não foi possível escrever na área de transferência. Verifique a permissão de área de transferência e tente novamente."
 }

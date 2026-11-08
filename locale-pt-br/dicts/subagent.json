@@ -35,6 +35,7 @@
   "tree.aria": "Sessões de subagentes",
   "open.sidebar": "Abrir na barra lateral",
   "open.sidebar.aria": "Abrir {label} na barra lateral",
+  "open.floatWindow": "Abrir em painel flutuante",
   "sidebar.chat": "Chat",
   "readonly.oneShot.title": "Registro de subagente de execução única",
   "readonly.title": "Este subagente está somente leitura por enquanto",

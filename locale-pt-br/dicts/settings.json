@@ -19,6 +19,7 @@
   "desktop.update.stopFailed": "Não foi possível interromper as tarefas com segurança. A atualização não foi instalada. Tente novamente mais tarde.",
   "desktop.update.tasksChanged": "Novas tarefas foram iniciadas. Confirme novamente para interromper as tarefas e atualizar.",
   "desktop.update.tasksUnavailable": "O status das tarefas está indisponível. Tente atualizar novamente quando o workspace estiver pronto.",
+  "desktop.update.fullscreenTimeout": "Não foi possível sair da tela cheia. Saia da tela cheia e tente a atualização novamente.",
   "title": "Configurações",
   "close": "Fechar",
   "openDocument": "Abrir arquivo de configuração",

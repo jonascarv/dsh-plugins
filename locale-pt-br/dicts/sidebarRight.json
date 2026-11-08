@@ -33,5 +33,8 @@
   "dock.drop.bottom": "Adicionar divisão abaixo",
   "tab.guide.title": "Iniciar",
   "tab.guide.more": "Mais ferramentas",
-  "tab.unavailable": "Ainda não há nada aqui que possa exibir este tipo de conteúdo."
+  "tab.unavailable": "Ainda não há nada aqui que possa exibir este tipo de conteúdo.",
+  "menu.close": "Fechar",
+  "menu.closeOthers": "Fechar outras guias",
+  "menu.closeRight": "Fechar guias à direita"
 }

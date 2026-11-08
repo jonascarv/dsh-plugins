@@ -9,7 +9,6 @@
   "preview.loading": "Carregando plano…",
   "preview.failed": "Não foi possível carregar o plano",
   "preview.invalidAddress": "Endereço de plano inválido",
-  "preview.historyUnavailable": "O histórico da sessão está indisponível",
   "preview.notFound": "Este plano não foi encontrado",
   "preview.unavailable": "A pré-visualização do plano está indisponível",
   "preview.expired": "Esta pré-visualização temporária do plano expirou. Reabra-a a partir do cartão de revisão pendente.",

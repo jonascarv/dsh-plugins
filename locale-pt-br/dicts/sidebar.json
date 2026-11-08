@@ -4,5 +4,7 @@
   "toggle.open": "Abrir barra lateral",
   "toggle.collapse": "Recolher barra lateral",
   "panels.label": "Painéis globais",
-  "panels.more": "Mais"
+  "panels.more": "Mais",
+  "navigation.label": "Navegação",
+  "version.copied": "Versão copiada"
 }

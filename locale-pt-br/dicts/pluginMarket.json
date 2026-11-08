@@ -76,5 +76,14 @@
   "versionExempted": "Com exceção",
   "versionPrerelease": "Pré-lançamento",
   "confirmTitle": "Instalar \"{name}\"?",
-  "installTrust": "Plugins rodam nesta máquina com suas permissões. Certifique-se de confiar na origem deste."
+  "installTrust": "Plugins rodam nesta máquina com suas permissões. Certifique-se de confiar na origem deste.",
+  "detailTitle": "Detalhes",
+  "detailLoading": "Lendo detalhes",
+  "detailTooLarge": "Os detalhes ou seu repositório excedem o limite de tamanho e não foram carregados.",
+  "detailNetwork": "Não foi possível acessar a origem dos detalhes.",
+  "detailDenied": "Não foi possível acessar o repositório dos detalhes. Verifique suas credenciais do Git.",
+  "detailGitUnavailable": "Os detalhes estão em um repositório que precisa ser lido com o Git, e o Git não pôde ser executado. Instale o Git e tente novamente.",
+  "detailInvalid": "O plugin declara um arquivo de detalhes inválido.",
+  "detailFailed": "Não foi possível ler os detalhes.",
+  "footnotes": "Notas de rodapé"
 }
